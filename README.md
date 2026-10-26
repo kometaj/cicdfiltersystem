@@ -155,7 +155,3 @@ ci-cd-filter-system/
 ├── .gitignore
 └── README.md
 ```
-
-## License
-
-Add a license appropriate for your intended use before publishing the repository.
